@@ -44,8 +44,8 @@ export default {
 
   gtm: {
     id: 'GTM-PCRLRST',
-    enabled: true, // for dev
-    debug: true,
+    // enabled: true, // for dev
+    debug: false,
     autoInit: true,
     pageTracking: true,
     pageViewEventName: 'pageview',
